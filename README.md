@@ -1,4 +1,4 @@
-# Getting started with Next.js and Replicate
+# Next.js template for running language models with Replicate
 
 This is a [Next.js](https://nextjs.org/) template project that's preconfigured for interacting with a language model like [FLAN-T5](https://replicate.com/daanelson/flan-t5) with Replicate's API.
 
